@@ -1,6 +1,6 @@
 # Scania-Truck-Failure
 
-![ing5erdiagram](https://www.scania.com/content/www/group/en/home/products-andservices/trucks/_jcr_content/root/responsivegrid/responsivegrid_copy/responsivegrid/heroimage.coreimg.85.1920.jpeg/1585221957546.jpeg)
+(https://miro.medium.com/v2/resize:fit:828/format:webp/0*khDzHqnIVy3Hn_mb.jpg)
 
 #### PROBLEM DEFINITION
 The goal is to minimize maintenance costs of the air pressure system (APS) of Scania trucks. Therefore, failures should be predicted before they occur. 
